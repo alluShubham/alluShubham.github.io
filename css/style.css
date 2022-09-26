@@ -664,6 +664,7 @@ margin-right: -10px;
         gap: 1rem;
         margin-top: 2rem;
       }
+      
     }
      @media only screen and (min-width: 421px) and (max-width: 780px) {
       .services{
@@ -677,6 +678,9 @@ margin-right: -10px;
         justify-content: center;
         gap: 1rem;
         margin-top: 2rem;
+      }
+      .work{
+        margin-top: -450px;
       }
 
      }
@@ -692,6 +696,9 @@ margin-right: -10px;
           justify-content: center;
           gap: 1rem;
           margin-top: 2rem;
+        }
+        .work{
+          margin-top: 450px;
         }
 
       }
